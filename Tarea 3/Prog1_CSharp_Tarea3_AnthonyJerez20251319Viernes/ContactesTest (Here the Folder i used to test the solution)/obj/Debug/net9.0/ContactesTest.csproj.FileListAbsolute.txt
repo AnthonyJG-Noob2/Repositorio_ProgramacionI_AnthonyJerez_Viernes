@@ -1,0 +1,14 @@
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.AssemblyInfoInputs.cache
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.AssemblyInfo.cs
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.csproj.CoreCompileInputs.cache
+D:\C#\ContactesTest\ContactesTest\bin\Debug\net9.0\ContactesTest.exe
+D:\C#\ContactesTest\ContactesTest\bin\Debug\net9.0\ContactesTest.deps.json
+D:\C#\ContactesTest\ContactesTest\bin\Debug\net9.0\ContactesTest.runtimeconfig.json
+D:\C#\ContactesTest\ContactesTest\bin\Debug\net9.0\ContactesTest.dll
+D:\C#\ContactesTest\ContactesTest\bin\Debug\net9.0\ContactesTest.pdb
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.dll
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\refint\ContactesTest.dll
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.pdb
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ContactesTest.genruntimeconfig.cache
+D:\C#\ContactesTest\ContactesTest\obj\Debug\net9.0\ref\ContactesTest.dll
